@@ -1,0 +1,10 @@
+{
+    "name": "rgaona/php-project",
+    "authors": [
+        {
+            "name": "Rodrigo Gaona Gonzalez",
+            "email": "rodrigogaonagonzalez@gmail.com"
+        }
+    ],
+    "require": {}
+}
